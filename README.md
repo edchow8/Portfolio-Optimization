@@ -26,8 +26,8 @@ In summary, we will build the AWP using its weightings suggested by Ray Dalio, u
 You can download the ".ipynb" file from this repository and open it with Jupyter Notebook. This way you'll be able to customize and edit the code as you wish.
 
 If you don't have Jupyter Notebook installed on your computer, you can either:
-- dowload/install the Anaconda package (https://www.anaconda.com/products/individual), which includes the Jupyter Notebook, or
-- click on the ""Portfolio-Optimization-Project.ipynb" file, and you'll be taken into "view mode" on GitHub. You won't be able to edit tbe code, but you'll be able to view the file as if you were in Jupyter Notebook.
+- Dowload/install the Anaconda package (https://www.anaconda.com/products/individual), which includes the Jupyter Notebook, or
+- Click on the ""Portfolio-Optimization-Project.ipynb" file, and you'll be taken into "view mode" on GitHub. You won't be able to edit tbe code, but you'll be able to view the file as if you were in Jupyter Notebook.
 
 In case you have any questions
 Please feel free to reach out to me using my e-mail address below if you have any questions regarding this work.
